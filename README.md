@@ -7,6 +7,8 @@
 
 # Анализ А/В-теста
 
+`pandas`  `numpy`  `math`  `scipy`  `matplotlib`  `seaborn`  `plotly`
+
 ---
 
 <p align='center'>
